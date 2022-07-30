@@ -1,2 +1,1 @@
-# FastApi-Socket.io
-# FastAPI-Socket.io
+# FastApiでSocket.ioを使っている記事がないのでコード載せときます！
